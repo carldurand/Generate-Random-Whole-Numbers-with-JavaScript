@@ -6,4 +6,6 @@ function randomWholeNum() {
 var randomNumberBetween0and9 = Math.floor(Math.random() * 10);
 
   return randomNumberBetween0and19 ;
+
+    
 }
